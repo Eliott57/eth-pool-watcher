@@ -22,7 +22,7 @@ git clone https://github.com/Eliott57/eth-pool-watcher.git
 cd eth-pool-watcher
 npm install
 
-cd ../client
+cd client
 npm install
 ```
 - Build and run back
