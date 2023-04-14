@@ -1,7 +1,7 @@
 const Web3 = require("web3");
 const axios = require("axios");
 
-const wsAddress = "wss://mainnet.infura.io/ws/v3/931482f957574baa8f7fd79ac4a94e88";
+const wsAddress = "wss://mainnet.infura.io/ws/v3/16a96b4f8fe849dfb311265413c1d5d4";
 
 const web3 = new Web3(new Web3.providers.WebsocketProvider(wsAddress));
 
